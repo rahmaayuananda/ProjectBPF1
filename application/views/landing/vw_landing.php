@@ -108,7 +108,7 @@
 						</div>
 						<div class="col-lg-5 ms-auto text-center mt-5 mt-lg-0">
 							<div class="bg-gradient-primary border-radius-lg h-100">
-								<img src="<?= base_url('assets/') ?>/assets/img/shapes/waves-white.svg" class="position-absolute h-100 w-50 top-0 d-lg-block d-none" alt="waves">
+								<img src="<?= base_url('assets/') ?>/img/shapes/waves-white.svg" class="position-absolute h-100 w-50 top-0 d-lg-block d-none" alt="waves">
 								<div class="position-relative d-flex align-items-center justify-content-center h-100">
 									<img class="w-100 position-relative z-index-2 pt-4" src="<?= base_url('assets/') ?>/assets/img/illustrations/rocket-white.png" alt="rocket">
 								</div>
@@ -443,7 +443,7 @@
 												<img src="<?= base_url('assets/') ?>/assets/img/team-3.jpg" alt="user2">
 											</a>
 											<a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Alexander Smith">
-												<img src="<?= base_url('assets/') ?>/assets/img/team-4.jpg" alt="user3">
+												<img src="<?= base_url('assets/') ?>/img/team-4.jpg" alt="user3">
 											</a>
 											<a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Jessica Doe">
 												<img src="<?= base_url('assets/') ?>/assets/img/team-1.jpg" alt="user4">
